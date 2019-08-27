@@ -1,4 +1,4 @@
-package com.newasia.gmall.user.bean;
+package com.newasia.gmall.bean;
 
 import javax.persistence.Column;
 import javax.persistence.Id;

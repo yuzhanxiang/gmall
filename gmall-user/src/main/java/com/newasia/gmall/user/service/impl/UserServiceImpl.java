@@ -1,8 +1,9 @@
 package com.newasia.gmall.user.service.impl;
 
-import com.newasia.gmall.user.bean.UserInfo;
+import com.newasia.gmall.bean.UserInfo;
+import com.newasia.gmall.service.UserService;
+
 import com.newasia.gmall.user.mapper.UserInfoMapper;
-import com.newasia.gmall.user.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

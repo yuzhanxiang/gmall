@@ -1,7 +1,8 @@
 package com.newasia.gmall.user.controller;
 
-import com.newasia.gmall.user.bean.UserInfo;
-import com.newasia.gmall.user.service.UserService;
+import com.newasia.gmall.bean.UserInfo;
+import com.newasia.gmall.service.UserService;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 

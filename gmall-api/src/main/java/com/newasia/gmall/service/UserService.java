@@ -1,7 +1,6 @@
-package com.newasia.gmall.user.service;
+package com.newasia.gmall.service;
 
-import com.newasia.gmall.user.bean.UserInfo;
-
+import com.newasia.gmall.bean.UserInfo;
 import java.util.List;
 
 public interface UserService {
